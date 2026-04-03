@@ -35,3 +35,17 @@
 2. **下載方式**：點擊「點我下載」後，在 Assets 區域下載對應的 `.7z` 檔案。
 3. **軟體建議**：請使用 [7-Zip](https://7-zip.org) 或最新版 WinRAR 進行解壓縮。
 4. **密碼錯誤**：若提示密碼錯誤，請檢查輸入時是否夾雜多餘的空格。
+
+<!-- 引入不蒜子腳本 -->
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+<!-- 顯示統計資訊 -->
+<div style="text-align: center; color: #888; font-size: 0.8rem; margin-top: 2rem;">
+    <span id="busuanzi_container_site_pv">
+        本站總訪問量：<span id="busuanzi_value_site_pv"></span> 次
+    </span>
+    | 
+    <span id="busuanzi_container_site_uv">
+        本站訪客數：<span id="busuanzi_value_site_uv"></span> 人
+    </span>
+</div>
