@@ -36,6 +36,10 @@
 3. **軟體建議**：請使用 [7-Zip](https://7-zip.org) 或最新版 WinRAR 進行解壓縮。
 4. **密碼錯誤**：若提示密碼錯誤，請檢查輸入時是否夾雜多餘的空格。
 
+<!-- 引入Cloudflare腳本 -->
+<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "da168481ed59447996a2171d2b2bcac3"}'></script>
+<!-- End Cloudflare Web Analytics -->
+
 #### 🛡️ 身分驗證
 
 為自證身分，
@@ -61,9 +65,5 @@ KhCANRAFAmnQM2kCGwwACgkQBFNgKhCANRCyWwD/fRhbI29pJmagw+o2wPJqEMQP
 HBCtQFEdy/LB6YCJC7sBALClKC7XpjopjOkY3+NMC7/XiDEw0NOictZP1WcQpRcL
 =XzCv
 -----END PGP PUBLIC KEY BLOCK-----
-```
-</details>
 
-<!-- 引入Cloudflare腳本 -->
-<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "da168481ed59447996a2171d2b2bcac3"}'></script>
-<!-- End Cloudflare Web Analytics -->
+
