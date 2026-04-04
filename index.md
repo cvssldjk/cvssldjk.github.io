@@ -52,7 +52,7 @@
 <details>
 <summary><b>▶ 點擊展開 公開金鑰內容 (Public Key Block)</b></summary>
 
-```text
+<pre><code>
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 mDMEadAzaRYJKwYBBAHaRw8BAQdA4eKDHS2OBkxOL2zWJWbhSVX5VQU1GKmWUKmL
 FpvY/jy0MEpWIUdWRzBDMzF3QGl6b04gPG1laXR1ZGlzY2xvc3VyZUBhdG9taWNt
@@ -65,5 +65,6 @@ KhCANRAFAmnQM2kCGwwACgkQBFNgKhCANRCyWwD/fRhbI29pJmagw+o2wPJqEMQP
 HBCtQFEdy/LB6YCJC7sBALClKC7XpjopjOkY3+NMC7/XiDEw0NOictZP1WcQpRcL
 =XzCv
 -----END PGP PUBLIC KEY BLOCK-----
-
+</code></pre>
+</details>
 
