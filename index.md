@@ -43,8 +43,6 @@
 <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "da168481ed59447996a2171d2b2bcac3"}'></script>
 <!-- End Cloudflare Web Analytics -->
 
-![Alt Text](data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAABQAwCdASoKAAoAAkA4JaACdAFAAAD+79mS66G6v8D/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wAA=" width="100" height="100")
-
 #### 🛡️ 身分驗證
 
 為自證身分，現提供本站及所有鏡像站通用 **GPG 數位簽章**。
