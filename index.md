@@ -19,6 +19,8 @@
 
 ---
 
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fcvssldjk.github.io%2F&label=&icon=github&color=%23198754&message=&style=flat&tz=Asia%2FTaipei)
+
 ### 🚀 即時更新 發布清單
 
 
