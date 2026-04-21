@@ -17,7 +17,7 @@
 
 含完整O名、身O證字號、行動電O號碼、電子O件及住家O址等。
 
-![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fcvssldjk.github.io%2F&label=&icon=github&color=%23198754&message=&style=flat&tz=Asia%2FTaipei)
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fcvssldjk.github.io%2F&label=&icon=bar-chart-fill&color=%23198754&message=&style=flat&tz=Asia%2FTaipei)
 
 ---
 
